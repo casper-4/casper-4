@@ -1,4 +1,4 @@
-- 👋 Hey, I’m @casper-4, a begginer web-developer based in Cracow, Poland.
+👋 Hey, I’m @casper-4, a begginer web-developer based in Cracow, Poland.
 
 - 👀 I’m interested in web-development
 - 🌱 I’m currently working on one of course projects, picking a framwework and getting more into web design.
